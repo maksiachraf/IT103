@@ -1,0 +1,31 @@
+h1 {color : green }
+      #left{
+      	width:40%;
+      	float:left;
+      	background-color:white;
+      	margin:0;
+        text-align: center;
+      }
+
+      #right{
+      	float:;
+      	background-color:white;
+      	width:60%;
+      	margin:0;
+        text-align: center;
+
+      }
+     #tete{
+       display:block;
+       background-color:aqua;
+      text-align:center;
+       margin-bottom:5%;
+     }
+     #menu {
+       position: fixed;
+       right: 0;
+       top: 15%;
+       width: 60em;
+       margin-top: -2.5em;
+       text-align: center;
+     }
